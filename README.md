@@ -1,3 +1,6 @@
+# gtabcode
+
+A conversion tool to transform `.gcode` code for 3D-printers to tabulated code for dispensing robots (in this specific case [Fisnar](http://www.fisnar.com/products/desktop-robots/f2000n-series) robots from the _F2000N Series_.
 
 ### Install
 
