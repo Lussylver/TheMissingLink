@@ -1,0 +1,5 @@
+gfisnarcode:
+    speed: 10
+    slicer: Simplify3D
+    minTimeStep: 0.025
+    gcodePath: "./example.gcode"
