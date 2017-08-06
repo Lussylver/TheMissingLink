@@ -8,4 +8,8 @@ class Gcode():
         path = deck.gcodePath
         gcodefile = open(path)
         self.rawgcode = gcodefile.read()
-        print self.rawgcode
+
+        #Transform gcode to array
+
+    def gcode_to_array(self):
+        print "Yahya, there you go"
